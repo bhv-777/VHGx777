@@ -36,3 +36,6 @@ git clone https://github.com/vedatcandemirkaya-jpg/VHGx777.git
 cd VHGx777
 
 bash VHGx777.sh
+
+```
+# bu tool öldü ☠️
