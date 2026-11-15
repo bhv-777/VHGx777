@@ -1,3 +1,6 @@
+# bu tool öldü ☠️
+
+
 # VHGx777
 
 **Termux için geliştirilmiş, modüler ve renkli bir kullanıcı aracıdır.**
@@ -38,4 +41,3 @@ cd VHGx777
 bash VHGx777.sh
 
 ```
-# bu tool öldü ☠️
